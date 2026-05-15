@@ -1,7 +1,9 @@
 import axios from 'axios'
 
+const apiURL = (import.meta as any).env.VITE_API_URL ? `${(import.meta as any).env.VITE_API_URL}/api` : '/api'
+
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: apiURL,
 })
 
 export interface Region {
