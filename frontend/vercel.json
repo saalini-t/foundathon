@@ -4,9 +4,6 @@
   "framework": "vite",
   "cleanUrls": true,
   "trailingSlash": false,
-  "env": {
-    "VITE_API_URL": "@api_url"
-  },
   "rewrites": [
     {
       "source": "/(.*)",
