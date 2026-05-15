@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Ghats",
+        "description": "Simplified boundary of the Western Ghats mountain range, India",
+        "designation": "UNESCO World Heritage Site",
+        "biodiversity_hotspot": true,
+        "area_km2": 160000,
+        "states": ["Gujarat", "Maharashtra", "Goa", "Karnataka", "Kerala", "Tamil Nadu"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.1, 21.2],
+            [73.5, 20.8],
+            [73.6, 20.0],
+            [73.5, 19.5],
+            [73.4, 19.0],
+            [73.3, 18.5],
+            [73.5, 18.0],
+            [73.6, 17.5],
+            [73.8, 17.0],
+            [74.0, 16.5],
+            [74.1, 16.0],
+            [74.2, 15.5],
+            [74.5, 15.0],
+            [74.8, 14.5],
+            [75.0, 14.0],
+            [75.2, 13.5],
+            [75.3, 13.0],
+            [75.5, 12.5],
+            [75.7, 12.0],
+            [76.0, 11.5],
+            [76.2, 11.0],
+            [76.5, 10.5],
+            [76.7, 10.0],
+            [76.9, 9.5],
+            [77.0, 9.0],
+            [77.1, 8.5],
+            [77.2, 8.3],
+            [77.6, 8.3],
+            [77.7, 8.5],
+            [77.6, 9.0],
+            [77.5, 9.5],
+            [77.4, 10.0],
+            [77.2, 10.5],
+            [77.0, 11.0],
+            [76.8, 11.5],
+            [76.5, 12.0],
+            [76.3, 12.5],
+            [76.0, 13.0],
+            [75.8, 13.5],
+            [75.7, 14.0],
+            [75.5, 14.5],
+            [75.3, 15.0],
+            [75.0, 15.5],
+            [74.8, 16.0],
+            [74.6, 16.5],
+            [74.4, 17.0],
+            [74.2, 17.5],
+            [74.1, 18.0],
+            [74.0, 18.5],
+            [73.9, 19.0],
+            [73.8, 19.5],
+            [73.9, 20.0],
+            [74.0, 20.5],
+            [73.8, 21.0],
+            [73.5, 21.3],
+            [73.1, 21.2]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nilgiri Biosphere Reserve",
+        "type": "biosphere_reserve",
+        "area_km2": 5520
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.65, 11.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silent Valley National Park",
+        "type": "national_park",
+        "state": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.43, 11.07]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kudremukh National Park",
+        "type": "national_park",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.25, 13.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandipur National Park",
+        "type": "national_park",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.63, 11.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Periyar Tiger Reserve",
+        "type": "tiger_reserve",
+        "state": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.17, 9.47]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eravikulam National Park",
+        "type": "national_park",
+        "state": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06, 10.17]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mudumalai Tiger Reserve",
+        "type": "tiger_reserve",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76.52, 11.6]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agumbe Rainforest",
+        "type": "biodiversity_hotspot",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.1, 13.5]
+      }
+    }
+  ]
+}

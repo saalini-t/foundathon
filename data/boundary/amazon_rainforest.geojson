@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazon Rainforest",
+        "description": "Simplified boundary of the central Amazon basin, Brazil",
+        "biodiversity_hotspot": true,
+        "area_km2": 5500000,
+        "countries": ["Brazil", "Peru", "Colombia"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-70.0, -10.0],
+            [-68.0, -9.5],
+            [-65.0, -10.0],
+            [-62.0, -9.0],
+            [-59.0, -8.5],
+            [-56.0, -8.0],
+            [-53.0, -6.0],
+            [-51.0, -4.0],
+            [-50.0, -2.0],
+            [-50.0, 0.0],
+            [-50.5, 1.0],
+            [-51.5, 2.0],
+            [-53.0, 2.0],
+            [-55.0, 1.5],
+            [-57.0, 1.0],
+            [-59.0, 1.5],
+            [-61.0, 1.0],
+            [-63.0, 0.5],
+            [-65.0, 0.0],
+            [-67.0, -1.0],
+            [-68.5, -2.0],
+            [-69.5, -4.0],
+            [-70.0, -6.0],
+            [-70.0, -8.0],
+            [-70.0, -10.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
